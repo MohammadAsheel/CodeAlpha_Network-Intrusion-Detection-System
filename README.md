@@ -330,7 +330,7 @@ The dashboard is implemented using the `Rich` library.
 ## 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY>
+git clone https://github.com/MohammadAsheel/CodeAlpha_Network-Intrusion-Detection-System.git
 cd CodeAlpha_NIDS
 ```
 
